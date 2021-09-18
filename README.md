@@ -1,2 +1,2 @@
-# -DavidHoffmannDH.github.io
+# DavidHoffmannDH.github.io
 {description}
